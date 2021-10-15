@@ -93,7 +93,7 @@ export default function Weather() {
         </div>
         <div className="bottom-text">
           <a
-            href="https://github.com/ter-gav/weather_app_project"
+            href="https://github.com/ter-gav/weather-react"
             target="_blank"
             rel="noreferrer"
           >
